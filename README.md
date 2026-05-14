@@ -180,25 +180,25 @@ ORDER BY products_sold DESC;
 
 ### Pages Designed
 
-**Page 1 — Executive Summary**
+**Page 1 — Executive Summary** ✅ Completed
 - Total Revenue KPI card
 - Revenue by Product Type (Bar chart)
 - Stock Status Distribution (Donut chart)
 - City-wise Revenue (Map visual)
 
-**Page 2 — Inventory & Stock Management**
+**Page 2 — Inventory & Stock Management** 🟡 In Progress
 - Stock Level by SKU (sorted bar — low to high)
 - Stock Status Classification (Conditional formatting table)
 - Fast vs Slow Movers (Horizontal bar)
 - Reorder Alert Panel
 
-**Page 3 — Supplier & Quality Analysis**
+**Page 3 — Supplier & Quality Analysis** ⬜ Pending
 - Defect Rate by Supplier (Bar chart)
 - Inspection Pass/Fail Rate (Clustered bar)
 - Avg Lead Time by Supplier (Line chart)
 - Manufacturing Cost comparison
 
-**Page 4 — Logistics & Shipping**
+**Page 4 — Logistics & Shipping** ⬜ Pending
 - Shipping Cost by Carrier (Bar chart)
 - Transportation Mode vs Defect Rate (Scatter)
 - Route Cost Efficiency (Table)
