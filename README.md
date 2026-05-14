@@ -222,7 +222,7 @@ Pass Rate % = DIVIDE(COUNTROWS(FILTER(supply_chain, [inspection_results]="Pass")
 
 ---
 
-## 🐍 Python EDA Highlights
+## 🐍 Python EDA Highlights 🟡 In Progress
 
 ```python
 import pandas as pd
